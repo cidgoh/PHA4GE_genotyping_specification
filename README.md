@@ -59,5 +59,5 @@ _Pending / To Be Determined_
 
 Brought to you by The [Centre for Infectious disease Genomics and One Health](https://cidgoh.ca/) and the [Public Health Alliance for Genomic Epidemiology](pha4ge.org) [Data Structures Workgroup](https://pha4ge.org/data-structures/).
 
-
+![PHA4GE-logo](https://camo.githubusercontent.com/8d7a0f5b166dbc4467a7e388c213840a1d6130842f8a62d37c275d181f1d96e4/68747470733a2f2f7068613467652e6f72672f77702d636f6e74656e742f75706c6f6164732f323032302f30392f70686167652d6c6f676f2d7468696e2e706e67)
 ![LogoCIDGOH2](https://github.com/cidgoh/specification-repo-template/assets/48695054/87fa713d-8fd7-453d-8542-fc413069e842)
