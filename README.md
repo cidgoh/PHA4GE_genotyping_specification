@@ -30,7 +30,7 @@ Please note that development of the specification is dynamic and it will be upda
 `y` = Term value / ID level changes <br>
 `z` = Definition, guidance, example, formatting, or other uncategorized changes
 
-Descriptions of changes are provided in [release notes](https://github.com/cidgoh/<INSERT REPOSITORY NAME>/releases) for every new version.
+Descriptions of changes are provided in [release notes](https://github.com/cidgoh/PHA4GE_genotyping_specification/releases) for every new version.
 
 ### Package Contents
 
@@ -49,7 +49,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vSLfdjK53wqgq9kvrPfovwtBOUQGPEOetb4rMq9t1De5A6V1iHrGZzUPfIGp-KXk3_qLiiXLSdEB5tF/pub)
 
 ## Contacts
-For more information and/or assistance, contact <INSERT CONTACT NAME> at <INSERT CONTACT EMAIL> or submit a repository [issue request](<INSERT REPOSITORY ISSUES URL>).
+For more information and/or assistance, contact Emma Griffiths at emma_griffiths@sfu.ca or submit a repository [issue request](<INSERT REPOSITORY ISSUES URL>).
 
 ## License
 
@@ -57,6 +57,7 @@ _Pending / To Be Determined_
 
 ## Acknowledgements
 
-Brought to you by The [Centre for Infectious disease Genomics and One Health](https://cidgoh.ca/)<and INSERT COLLABORATOR NAMES>
+Brought to you by The [Centre for Infectious disease Genomics and One Health](https://cidgoh.ca/) and the [Public Health Alliance for Genomic Epidemiology](pha4ge.org) [Data Structures Workgroup](https://pha4ge.org/data-structures/).
+
 
 ![LogoCIDGOH2](https://github.com/cidgoh/specification-repo-template/assets/48695054/87fa713d-8fd7-453d-8542-fc413069e842)
