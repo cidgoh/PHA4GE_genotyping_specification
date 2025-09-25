@@ -51,16 +51,16 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 
 #### Worked Examples
 1) In silico serotyping - Acinetobacter (Kaptive) - K antigen
-genotyping_method: in silico serotyping	
-genotyping_schema_taxon: Acinetobacter baumannii [NCBITaxon:470] 	
-genotyping_database_name: kaptive	
-genotyping_database_version: 2.0.1	
-genotyping_schema_name: Acinetobacter kleb k	
-genotyping_software_name: kaptive	
-genotyping_software_version: 3.0.1	
-genotype: KL3	
-genotype_confidence_value: Strong	
-genotyping_details:
+|genotyping_method:| in silico serotyping|	
+|genotyping_schema_taxon:| Acinetobacter baumannii [NCBITaxon:470]|	
+|genotyping_database_name:| kaptive|	
+|genotyping_database_version:| 2.0.1|	
+|genotyping_schema_name:| Acinetobacter kleb k|	
+|genotyping_software_name:| kaptive|	
+|genotyping_software_version:| 3.0.1|	
+|genotype:| KL3|	
+|genotype_confidence_value:| Strong|	
+|genotyping_details:||
 
 2) MLST - Staphylococcus aureus (MLST tool)
 genotyping_method: MLST	
