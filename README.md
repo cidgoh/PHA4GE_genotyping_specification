@@ -51,7 +51,6 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 
 #### Worked Examples
 
-1) In silico serotyping - Acinetobacter (Kaptive) - K antigen
 |Field|Value|
 |---|---|
 |genotyping_method:| in silico serotyping|	
@@ -64,6 +63,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |genotype:| KL3|	
 |genotype_confidence_value:| Strong|	
 |genotyping_details:||
+1) In silico serotyping - Acinetobacter (Kaptive) - K antigen
 
 2) MLST - Staphylococcus aureus (MLST tool)
 |Field|Value|
