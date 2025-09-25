@@ -49,6 +49,44 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |GENEPIO:0102169|genoype_confidence_value|The measure of confidence provided for a genotype call.|Some software provides a confidence value for a genotyping result. Different confidence scales are used across the community. Provide the confidence value as it is output from the tool. Add any notes about the confidence value in the "genotyping_details" field.|free text (string)|
 |GENEPIO:0102170|genotyping_details|The details of the details of the genotyping assay.|Provide any extra information that may be useful for interpreting the genotyping results such as citations, and explanations of notations denoting new sequence types or untypable results.|free text (string)|
 
+#### Worked Examples
+1) In silico serotyping - Acinetobacter (Kaptive) - K antigen
+genotyping_method: in silico serotyping	
+genotyping_schema_taxon: Acinetobacter baumannii [NCBITaxon:470] 	
+genotyping_database_name: kaptive	
+genotyping_database_version: 2.0.1	
+genotyping_schema_name: Acinetobacter kleb k	
+genotyping_software_name: kaptive	
+genotyping_software_version: 3.0.1	
+genotype: KL3	
+genotype_confidence_value: Strong	
+genotyping_details:
+
+2) MLST - Staphylococcus aureus (MLST tool)
+genotyping_method: MLST	
+genotyping_schema_taxon: Staphylococcus aureus [NCBITaxon:1280]	
+genotyping_database_name: pubmlst	
+genotyping_database_version: 2025-09-01	
+genotyping_schema_name: saureus	
+genotyping_software_name: mlst	
+genotyping_software_version: 2.0	
+genotype: 5	
+genotype_confidence_value: 	
+genotyping_details:
+
+3) MLST - Acinetobacter baumanii (pubmlst)
+genotyping_method: MLST	
+genotyping_schema_taxon: Acinetobacter baumannii [NCBITaxon:470]
+genotyping_database_name: pubmlst	
+genotyping_database_version: 2025-09-01	
+genotyping_schema_name: MLST (Pasteur)	
+genotyping_software_name: pubmlst		
+genotyping_software_version: 2025-09-01	
+genotype: ST2	
+genotype_confidence_value: 	
+genotyping_details:
+
+
 #### New Term Request (NTR) SOP
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vSLfdjK53wqgq9kvrPfovwtBOUQGPEOetb4rMq9t1De5A6V1iHrGZzUPfIGp-KXk3_qLiiXLSdEB5tF/pub)
 
