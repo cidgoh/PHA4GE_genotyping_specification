@@ -50,7 +50,9 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |GENEPIO:0102170|genotyping_details|The details of the details of the genotyping assay.|Provide any extra information that may be useful for interpreting the genotyping results such as citations, and explanations of notations denoting new sequence types or untypable results.|free text (string)|
 
 #### Worked Examples
-1) In silico serotyping - Acinetobacter (Kaptive) - K antigen
+
+|Field|Value|
+|---|---|
 |genotyping_method:| in silico serotyping|	
 |genotyping_schema_taxon:| Acinetobacter baumannii [NCBITaxon:470]|	
 |genotyping_database_name:| kaptive|	
