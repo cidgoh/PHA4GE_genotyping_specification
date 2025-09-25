@@ -65,7 +65,6 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |genotyping_details:||
 1) In silico serotyping - Acinetobacter (Kaptive) - K antigen
 
-2) MLST - Staphylococcus aureus (MLST tool)
 |Field|Value|
 |---|---|
 |genotyping_method:| MLST|	
@@ -78,19 +77,21 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |genotype:| 5|	
 |genotype_confidence_value:| 	
 |genotyping_details:|
+2) MLST - Staphylococcus aureus (MLST tool)
 
-4) MLST - Acinetobacter baumanii (pubmlst)
-genotyping_method: MLST	
-genotyping_schema_taxon: Acinetobacter baumannii [NCBITaxon:470]
-genotyping_database_name: pubmlst	
-genotyping_database_version: 2025-09-01	
-genotyping_schema_name: MLST (Pasteur)	
-genotyping_software_name: pubmlst		
-genotyping_software_version: 2025-09-01	
-genotype: ST2	
-genotype_confidence_value: 	
-genotyping_details:
-
+|Field|Value|
+|---|---|
+|genotyping_method:| MLST|	
+|genotyping_schema_taxon:| Acinetobacter baumannii [NCBITaxon:470]|
+|genotyping_database_name:| pubmlst|	
+|genotyping_database_version:| 2025-09-01|
+|genotyping_schema_name:| MLST (Pasteur)|	
+|genotyping_software_name:| pubmlst|		
+|genotyping_software_version:| 2025-09-01|	
+|genotype:| ST2|	
+|genotype_confidence_value:||	
+|genotyping_details:||
+3) MLST - Acinetobacter baumanii (pubmlst)
 
 #### New Term Request (NTR) SOP
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vSLfdjK53wqgq9kvrPfovwtBOUQGPEOetb4rMq9t1De5A6V1iHrGZzUPfIGp-KXk3_qLiiXLSdEB5tF/pub)
