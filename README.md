@@ -20,7 +20,16 @@ Labs collect, encode and store information in different ways. They use different
 
 ## The PHA4GE Genotyping Contextual Data Specification Package
 
-This specification supports implementation via spreadsheet-based data collection instruments, with accompanying **Field** and **Term reference guides**.New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
+Microbial genotypes are not usually not included in sequence records in public repositories. As a result, community members routinely download large datasets and type organisms of interest repeatedly to answer different public health questions - resulting in a duplication of effort that is both time and resource intensive. Furthermore,
+provenance (methods) are often lacking when genotypes are shared, impacting comparability of results. It is also difficult to identify/filter desired genotypes as typing attributes are non-standardized or missing.
+
+The goal of the PHA4GE Microbial Genotyping Specification project is to create a set of standardized, machine-readable attributes for communicating genotyping methods and results across laboratories.
+
+These attributes could be implemented by/in public repositories when typing results are included in sequence records. Such ‘tags” could better enable searching, filtering, and querying of microbial types relevant to public health. The tags can be used to standardize/summarize methods in supplementary material in manuscripts improving data ingestion for downstream applications (e.g. analytical/visualization tools). Public health analysis platforms can also use the standardized attributes to harmonize typing information ingested from different data streams and from different data providers.
+
+The specification is currently at the draft stage. The initial draft was developed by members of the PHA4GE Data Structures Working Group, with contributions from participants of the pre-IMMEM XIV 12th Microbial Bioinformatics Hackathon held in Porto, Portugal (September, 2025).
+
+New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
 
 ### Version Control
 
