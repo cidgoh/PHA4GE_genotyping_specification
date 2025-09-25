@@ -50,7 +50,8 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |GENEPIO:0102170|genotyping_details|The details of the details of the genotyping assay.|Provide any extra information that may be useful for interpreting the genotyping results such as citations, and explanations of notations denoting new sequence types or untypable results.|free text (string)|
 
 #### Worked Examples
-
+1) In silico serotyping - Acinetobacter (Kaptive) - K antigen
+   
 |Field|Value|
 |---|---|
 |genotyping_method:| in silico serotyping|	
@@ -63,8 +64,9 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |genotype:| KL3|	
 |genotype_confidence_value:| Strong|	
 |genotyping_details:||
-1) In silico serotyping - Acinetobacter (Kaptive) - K antigen
 
+2) MLST - Staphylococcus aureus (MLST tool)
+   
 |Field|Value|
 |---|---|
 |genotyping_method:| MLST|	
@@ -77,8 +79,9 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |genotype:| 5|	
 |genotype_confidence_value:| 	
 |genotyping_details:|
-2) MLST - Staphylococcus aureus (MLST tool)
 
+3) MLST - Acinetobacter baumanii (pubmlst)
+   
 |Field|Value|
 |---|---|
 |genotyping_method:| MLST|	
@@ -91,7 +94,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |genotype:| ST2|	
 |genotype_confidence_value:||	
 |genotyping_details:||
-3) MLST - Acinetobacter baumanii (pubmlst)
+
 
 #### New Term Request (NTR) SOP
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vSLfdjK53wqgq9kvrPfovwtBOUQGPEOetb4rMq9t1De5A6V1iHrGZzUPfIGp-KXk3_qLiiXLSdEB5tF/pub)
