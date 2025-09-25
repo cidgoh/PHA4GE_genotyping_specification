@@ -38,7 +38,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 
 |Ontology ID|Label|Definition|Guidance|Permissable values (enums)|
 |---|---|---|---|---|
-||||||
+|OBI:0000435|genotyping_method|A method which generates data about a genotype from a specimen of genomic DNA. A variety of techniques and instruments can be used to produce information about sequence variation at particular genomic positions.|Select the method from the picklist. If the desired method is missing, submit a New Term Request.|target loci based typing; MLST; cgMLST; wgMLST; rMLST; plasmidMLST; segment based typing; whole genome based typing; SNP typing; phylogenetic typing; LINcode; in silico serotyping; In silico species detection|
 ||||||
 ||||||
 ||||||
