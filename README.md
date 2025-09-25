@@ -104,7 +104,7 @@ For more information and/or assistance, contact Emma Griffiths at emma_griffiths
 
 ## License
 
-_Pending / To Be Determined_
+MIT License
 
 ## Acknowledgements
 
