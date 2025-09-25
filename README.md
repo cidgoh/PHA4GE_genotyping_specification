@@ -51,6 +51,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 
 #### Worked Examples
 
+1) In silico serotyping - Acinetobacter (Kaptive) - K antigen
 |Field|Value|
 |---|---|
 |genotyping_method:| in silico serotyping|	
@@ -65,18 +66,20 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 |genotyping_details:||
 
 2) MLST - Staphylococcus aureus (MLST tool)
-genotyping_method: MLST	
-genotyping_schema_taxon: Staphylococcus aureus [NCBITaxon:1280]	
-genotyping_database_name: pubmlst	
-genotyping_database_version: 2025-09-01	
-genotyping_schema_name: saureus	
-genotyping_software_name: mlst	
-genotyping_software_version: 2.0	
-genotype: 5	
-genotype_confidence_value: 	
-genotyping_details:
+|Field|Value|
+|---|---|
+|genotyping_method:| MLST|	
+|genotyping_schema_taxon:| Staphylococcus aureus [NCBITaxon:1280]|	
+|genotyping_database_name:| pubmlst|	
+|genotyping_database_version:| 2025-09-01|	
+|genotyping_schema_name:| saureus|	
+|genotyping_software_name:| mlst|	
+|genotyping_software_version:| 2.0|	
+|genotype:| 5|	
+|genotype_confidence_value:| 	
+|genotyping_details:|
 
-3) MLST - Acinetobacter baumanii (pubmlst)
+4) MLST - Acinetobacter baumanii (pubmlst)
 genotyping_method: MLST	
 genotyping_schema_taxon: Acinetobacter baumannii [NCBITaxon:470]
 genotyping_database_name: pubmlst	
